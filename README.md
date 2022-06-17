@@ -47,3 +47,5 @@ class ViewController: UIViewController {
 
 # 출력결과
 
+![스크린샷 2022-06-17 오전 10 37 51](https://user-images.githubusercontent.com/105900661/174205166-4aca0184-3343-48f2-a072-391f7c5d0cf5.png)
+
